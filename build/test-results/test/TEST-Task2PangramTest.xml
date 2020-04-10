@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Task2PangramTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-04-10T20:43:14" hostname="endless" time="0.131">
+  <properties/>
+  <testcase name="testPangram10" classname="Task2PangramTest" time="0.097"/>
+  <testcase name="testPangram1" classname="Task2PangramTest" time="0.001"/>
+  <testcase name="testPangram2" classname="Task2PangramTest" time="0.001"/>
+  <testcase name="testPangram3" classname="Task2PangramTest" time="0.004"/>
+  <testcase name="testPangram4" classname="Task2PangramTest" time="0.001"/>
+  <testcase name="testPangram5" classname="Task2PangramTest" time="0.004"/>
+  <testcase name="testPangram6" classname="Task2PangramTest" time="0.009"/>
+  <testcase name="testPangram7" classname="Task2PangramTest" time="0.006"/>
+  <testcase name="testPangram8" classname="Task2PangramTest" time="0.001"/>
+  <testcase name="testPangram9" classname="Task2PangramTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
